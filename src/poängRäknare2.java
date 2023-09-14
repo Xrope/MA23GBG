@@ -15,7 +15,7 @@ public class poängRäknare2 {
             String name = sc.nextLine();
             if (!name.isEmpty()) {
                 names.add(name);
-
+        // Comment
                 System.out.println("Skriv in poängen");
                 points.add(sc.nextInt());
                 sc.nextLine();
